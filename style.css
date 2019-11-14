@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+code {
+  background-color: blue;
+  padding: 0 1rem;
+  color: #FFF;
+}
